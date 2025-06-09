@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koki Shoda</h1>
-- 🔭 I’m currently researching on [automation, robotics, audio processing](https://researchmap.jp/shoda_koki)
+- 🔭 I’m currently researching on The University of Tokyo.
+- 📄 My research interests are automation, robotics, audio processing: https://researchmap.jp/shoda_koki
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
